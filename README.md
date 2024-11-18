@@ -1,6 +1,6 @@
 <div align=center > <img src="https://yt3.googleusercontent.com/amupA23SwPrQe5io-x15vrxUnpTyDXmPjieDu0-exSpqiOmmbrKMn3QKn-leEmFIIN3PwAb3=s900-c-k-c0x00ffffff-no-rj" width="500px"> </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<h1 align=center> 👾 Bienvenido al perfil de Arnulfo DG | midesmis </h1>
+<h1 align=center> 👾 Bienvenidos al perfil de Arnulfo DG | midesmis </h1>
 
          _   _   _   _   _   _     _   _   _   _   _   _  
         / \ / \ / \ / \ / \ / \   / \ / \ / \ / \ / \ / \ 
