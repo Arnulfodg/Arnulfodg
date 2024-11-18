@@ -1,4 +1,8 @@
-## Hi there 👋
+<div align=center > <img src="https://i.ytimg.com/vi/V7oHLL1oq7w/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCQ01UO3zVSM8_qg8tf5L_p1yHxvw" > </div>
+
+## <h1 align=center> 👋 Hola soy Arnulfo DG. | MIDESMIS </h1>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 <!--
 **Arnulfodg/Arnulfodg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
