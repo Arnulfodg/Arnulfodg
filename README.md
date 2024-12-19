@@ -7,7 +7,7 @@
        ( H | a | c | k | e | r ) ( G | a | m | e | _ | 🔥 )
         \_/ \_/ \_/ \_/ \_/ \_/   \_/ \_/ \_/ \_/ \_/ \_/ 
 
-¡Hola! Soy Arnulfo DG, también conocido como midesmis en el mundo del contenido educativo de ciberseguridad.
+¡Hola! Soy Arnulfo DG, también conocido como midesmis en el mundo del contenido para YouTube.
 Como autodidacta en este emocionante campo, he dedicado mi tiempo a aprender y compartir conocimientos sobre hacking ético y programación.
 
 🧑‍💻 ¿Quién soy?
