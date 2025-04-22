@@ -1,6 +1,6 @@
 ![Hacker Game Logo](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 <div align="center">
-  <img src="[https://yt3.googleusercontent.com/amupA23SwPrQe5io-x15vrxUnpTyDXmPjieDu0-exSpqiOmmbrKMn3QKn-leEmFIIN3PwAb3=s900-c-k-c0x00ffffff-no-rj](https://drive.google.com/file/d/1b5n6CQKUi3KdzAIEkJ3TlLMv5YmVf_Ph/view?usp=drive_link)" width="300px">
+  <img src="https://drive.google.com/file/d/1b5n6CQKUi3KdzAIEkJ3TlLMv5YmVf_Ph/view?usp=drive_link" width="300px">
 </div>
 
 # 👾 Bienvenidos al perfil de Arnulfo DG | midesmis
