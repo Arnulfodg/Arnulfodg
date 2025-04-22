@@ -21,6 +21,8 @@ Con experiencia como **analista de calidad**, desarrollé una visión detallista
 🧪 Esta fusión de calidad + hacking me permite ver los sistemas desde todos los ángulos: desde cómo funcionan... hasta cómo podrían fallar.
 
 ## 🚀 Habilidades y Herramientas
+### 🛡️ Analista de Calidad
+- +3 años de experiencia
 
 ### 🛡️ Ciberseguridad
 - Pentesting en entornos controlados
