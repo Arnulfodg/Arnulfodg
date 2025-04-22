@@ -1,6 +1,6 @@
 ![Hacker Game Logo](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 <div align="center">
-  <img src="https://yt3.googleusercontent.com/amupA23SwPrQe5io-x15vrxUnpTyDXmPjieDu0-exSpqiOmmbrKMn3QKn-leEmFIIN3PwAb3=s900-c-k-c0x00ffffff-no-rj" width="300px">
+  <img src="[https://yt3.googleusercontent.com/amupA23SwPrQe5io-x15vrxUnpTyDXmPjieDu0-exSpqiOmmbrKMn3QKn-leEmFIIN3PwAb3=s900-c-k-c0x00ffffff-no-rj](https://drive.google.com/file/d/1b5n6CQKUi3KdzAIEkJ3TlLMv5YmVf_Ph/view?usp=drive_link)" width="300px">
 </div>
 
 # 👾 Bienvenidos al perfil de Arnulfo DG | midesmis
@@ -24,10 +24,9 @@ Con experiencia como **analista de calidad**, desarrollé una visión detallista
 
 ### 🛡️ Ciberseguridad
 - Pentesting en entornos controlados
-- Hacking ético (herramientas ofensivas)
 
 ### 💻 Desarrollo
-- Frontend: HTML, CSS, Tailwind CSS, JavaScript
+- Frontend: HTML,Tailwind, CSS, JavaScript
 - Backend: MySQL
 - Automatización de pruebas: Cypress, Bash scripting
 
@@ -40,14 +39,13 @@ Equipo para entrenamiento en ciberseguridad que combina hardware + software para
 Tutoriales y videos sobre ciberseguridad, QA y desarrollo.
 
 ### ⚙️ Automatización QA
-Uso de Cypress y scripts para validar formularios y test de seguridad automatizados.
+Uso de Cypress y scripts para validar formularios y test automatizados.
 
 ## 💡 Filosofía
 > "La inteligencia nace de la libertad de pensar"
 
 ## 📫 Contacto
 - YouTube: [midesmis](https://youtube.com/@midesmis)
-- Email: arnulfodg@gmail.com
 
 ---
 
