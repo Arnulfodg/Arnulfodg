@@ -1,66 +1,60 @@
-<div align=center > <img src="https://yt3.googleusercontent.com/amupA23SwPrQe5io-x15vrxUnpTyDXmPjieDu0-exSpqiOmmbrKMn3QKn-leEmFIIN3PwAb3=s900-c-k-c0x00ffffff-no-rj" width="500px"> </div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<h1 align=center> 👾 Bienvenidos al perfil de Arnulfo DG | midesmis </h1>
+![Hacker Game Logo](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+<div align="center">
+  <img src="https://yt3.googleusercontent.com/amupA23SwPrQe5io-x15vrxUnpTyDXmPjieDu0-exSpqiOmmbrKMn3QKn-leEmFIIN3PwAb3=s900-c-k-c0x00ffffff-no-rj" width="300px">
+</div>
 
-         _   _   _   _   _   _     _   _   _   _   _   _  
-        / \ / \ / \ / \ / \ / \   / \ / \ / \ / \ / \ / \ 
-       ( H | a | c | k | e | r ) ( G | a | m | e | _ | 🔥 )
-        \_/ \_/ \_/ \_/ \_/ \_/   \_/ \_/ \_/ \_/ \_/ \_/ 
+# 👾 Bienvenidos al perfil de Arnulfo DG | midesmis
 
-¡Hola! Soy Arnulfo DG, también conocido como midesmis en el mundo del contenido para YouTube.
-Como autodidacta en este emocionante campo, he dedicado mi tiempo a aprender y compartir conocimientos sobre hacking ético y programación.
+```
+     _   _   _   _   _   _     _   _   _   _   _   _  
+    / \ / \ / \ / \ / \ / \   / \ / \ / \ / \ / \ / \ 
+   ( H | a | c | k | e | r ) ( G | a | m | e | _ | 🔥 )
+    \_/ \_/ \_/ \_/ \_/ \_/   \_/ \_/ \_/ \_/ \_/ \_/ 
+```
 
-🧑‍💻 ¿Quién soy?
+## 🧠 Sobre mí
 
-    🎥 Creador de contenido en YouTube, enseñando ciberseguridad y programación.
-    💻 Fundador de Hacker Game, un equipo diseñado para aprender sobre ciberseguridad en entornos controlados, integrando hardware y software.
-    🔍 Experiencia previa como analista de calidad, lo que me ha dado un enfoque detallista y estructurado.
-    🌐 Aprendiendo tanto de Frontend como de Backend, para crear aplicaciones completas y seguras.
+Soy **Arnulfo DG**, alias **@midesmis**, un creador de contenido y profesional técnico que une dos mundos clave: la **calidad del software** y la **ciberseguridad ofensiva**. 
 
-🚀 Habilidades y Herramientas
-🛡️ Ciberseguridad
+Con experiencia como **analista de calidad**, desarrollé una visión detallista, estructurada y orientada a procesos. Hoy, como **estudiante autodidacta en ciberseguridad**, complemento ese enfoque con habilidades ofensivas para evaluar, romper y fortalecer sistemas.
 
-    Pentesting: Análisis de vulnerabilidades en entornos controlados.
-    Hacking ético: Experimentos con herramientas y técnicas seguras.
+🧪 Esta fusión de calidad + hacking me permite ver los sistemas desde todos los ángulos: desde cómo funcionan... hasta cómo podrían fallar.
 
-💻 Programación y Desarrollo
+## 🚀 Habilidades y Herramientas
 
-    Frontend: HTML, CSS, Tailwind CSS, JavaScript.
-    Backend: MySQL.
-    Automatización: Cypress, Bash scripting.
-    
-🔥 Mis Proyectos Destacados
+### 🛡️ Ciberseguridad
+- Pentesting en entornos controlados
+- Hacking ético (herramientas ofensivas)
 
-    🎮 Hacker Game
-    Equipo diseñado para entrenar ciberseguridad con una combinación de hardware y software.
-    🌐 Contenido educativo en midesmis
-    Videos y tutoriales enfocados en ciberseguridad y programación.
-    ⚙️ Automatización de pruebas con Cypress
-    Scripts que validan formularios y pruebas de seguridad automatizadas.
-    
-💡 Filosofía
+### 💻 Desarrollo
+- Frontend: HTML, CSS, Tailwind CSS, JavaScript
+- Backend: MySQL
+- Automatización de pruebas: Cypress, Bash scripting
 
-    "La inteligencia nace de la libertad de pensar"
+## 📌 Proyectos Destacados
 
-📫 ¿Cómo contactarme?
+### 🎮 Hacker Game
+Equipo para entrenamiento en ciberseguridad que combina hardware + software para simular entornos reales.
 
-    🌐 YouTube: midesmis
-    ✉️ Email: arnulfodg@gmail.com
+### 🌐 Contenido educativo "MiDesMis"
+Tutoriales y videos sobre ciberseguridad, QA y desarrollo.
 
+### ⚙️ Automatización QA
+Uso de Cypress y scripts para validar formularios y test de seguridad automatizados.
 
+## 💡 Filosofía
+> "La inteligencia nace de la libertad de pensar"
 
+## 📫 Contacto
+- YouTube: [midesmis](https://youtube.com/@midesmis)
+- Email: arnulfodg@gmail.com
 
-<!--
-**Arnulfodg/Arnulfodg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 📛 Badges
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Profile Views](https://komarev.com/ghpvc/?username=Arnulfodg&label=Profile%20views&color=0e75b6&style=flat)
+![GitHub followers](https://img.shields.io/github/followers/Arnulfodg?label=Follow&style=social)
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCyourchannelid?style=social)
+
+---
